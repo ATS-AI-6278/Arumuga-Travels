@@ -1,0 +1,6 @@
+{
+  "name": "Srivilliputtur Heritage Travels",
+  "description": "Luxury outstation taxi desk, 3D fleet showroom, live Google Maps route planner, and AI voice/chat concierge for Srivilliputtur.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
